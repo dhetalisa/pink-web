@@ -4,7 +4,7 @@ type Props = {}
 
 const Profile = (props: Props) => {
   return (
-    <div className='h-[500px] flex flex-col justify-center text-center text-black px-52 space-y-10'>
+    <div className='h-[500px] flex flex-col justify-center text-center text text-black px-52 space-y-10'>
         <div className='space-y-4'>
             <p className='text-3xl font-bold'>Gambaran Umum</p>
             <p className='font-extralight'>Himpunan Mahasiswa Teknik Informatika (HMIF) - Institut Teknologi Indonesia merupakan organisasi mahasiswa program studi Teknik Informatika di Institut Teknologi Indonesia yang bertujuan mengembangkan potensi mahasiswa Teknik Informatika dengan berlandaskan Tri Dharma Perguruan Tinggi</p>
